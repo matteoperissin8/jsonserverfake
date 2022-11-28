@@ -1,14 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "email": [
+        {
+            "title": "Message 1",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, erat in interdum fringilla, tellus ligula fringilla enim, ac sodales orci turpis ultricies libero. Curabitur posuere ut dui eu ultricies. Nulla euismod odio ac blandit ornare. Nam lacinia massa sit amet dolor volutpat cursus. Vivamus tincidunt sapien dolor, in egestas nunc blandit nec. Donec et sem convallis velit hendrerit porttitor. Fusce viverra velit erat, nec efficitur ligula accumsan ac. In suscipit vehicula elit, eget eleifend tellus posuere ac. In at urna sit amet libero gravida ornare. Aenean est sapien, posuere ut laoreet vel, tristique nec lectus. Nunc gravida at tellus fringilla consectetur. Quisque in blandit dolor. Etiam non maximus quam. Nullam dictum orci quis libero venenatis efficitur. Nulla facilisi.",
+            "date": 1669469873908,
+            "type": "Inbox"
+        },
+        {
+            "title": "Message 2",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, erat in interdum fringilla, tellus ligula fringilla enim, ac sodales orci turpis ultricies libero. Curabitur posuere ut dui eu ultricies. Nulla euismod odio ac blandit ornare. Nam lacinia massa sit amet dolor volutpat cursus. Vivamus tincidunt sapien dolor, in egestas nunc blandit nec. Donec et sem convallis velit hendrerit porttitor. Fusce viverra velit erat, nec efficitur ligula accumsan ac. In suscipit vehicula elit, eget eleifend tellus posuere ac. In at urna sit amet libero gravida ornare. Aenean est sapien, posuere ut laoreet vel, tristique nec lectus. Nunc gravida at tellus fringilla consectetur. Quisque in blandit dolor. Etiam non maximus quam. Nullam dictum orci quis libero venenatis efficitur. Nulla facilisi.",
+            "date": 1669469873908,
+            "type": "Inbox"
+        },
+        {
+            "title": "Message 3",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, erat in interdum fringilla, tellus ligula fringilla enim, ac sodales orci turpis ultricies libero. Curabitur posuere ut dui eu ultricies. Nulla euismod odio ac blandit ornare. Nam lacinia massa sit amet dolor volutpat cursus. Vivamus tincidunt sapien dolor, in egestas nunc blandit nec. Donec et sem convallis velit hendrerit porttitor. Fusce viverra velit erat, nec efficitur ligula accumsan ac. In suscipit vehicula elit, eget eleifend tellus posuere ac. In at urna sit amet libero gravida ornare. Aenean est sapien, posuere ut laoreet vel, tristique nec lectus. Nunc gravida at tellus fringilla consectetur. Quisque in blandit dolor. Etiam non maximus quam. Nullam dictum orci quis libero venenatis efficitur. Nulla facilisi.",
+            "date": 1669330800000,
+            "type": "Inbox"
+        },
+        {
+            "title": "Message 4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, erat in interdum fringilla, tellus ligula fringilla enim, ac sodales orci turpis ultricies libero. Curabitur posuere ut dui eu ultricies. Nulla euismod odio ac blandit ornare. Nam lacinia massa sit amet dolor volutpat cursus. Vivamus tincidunt sapien dolor, in egestas nunc blandit nec. Donec et sem convallis velit hendrerit porttitor. Fusce viverra velit erat, nec efficitur ligula accumsan ac. In suscipit vehicula elit, eget eleifend tellus posuere ac. In at urna sit amet libero gravida ornare. Aenean est sapien, posuere ut laoreet vel, tristique nec lectus. Nunc gravida at tellus fringilla consectetur. Quisque in blandit dolor. Etiam non maximus quam. Nullam dictum orci quis libero venenatis efficitur. Nulla facilisi.",
+            "date": 1669330800000,
+            "type": "Inbox"
+        },
+        {
+            "title": "Message 2",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, erat in interdum fringilla, tellus ligula fringilla enim, ac sodales orci turpis ultricies libero. Curabitur posuere ut dui eu ultricies. Nulla euismod odio ac blandit ornare. Nam lacinia massa sit amet dolor volutpat cursus. Vivamus tincidunt sapien dolor, in egestas nunc blandit nec. Donec et sem convallis velit hendrerit porttitor. Fusce viverra velit erat, nec efficitur ligula accumsan ac. In suscipit vehicula elit, eget eleifend tellus posuere ac. In at urna sit amet libero gravida ornare. Aenean est sapien, posuere ut laoreet vel, tristique nec lectus. Nunc gravida at tellus fringilla consectetur. Quisque in blandit dolor. Etiam non maximus quam. Nullam dictum orci quis libero venenatis efficitur. Nulla facilisi.",
+            "date": 1669469873908,
+            "type": "Spam"
+        },
+        {
+            "title": "Message 3",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, erat in interdum fringilla, tellus ligula fringilla enim, ac sodales orci turpis ultricies libero. Curabitur posuere ut dui eu ultricies. Nulla euismod odio ac blandit ornare. Nam lacinia massa sit amet dolor volutpat cursus. Vivamus tincidunt sapien dolor, in egestas nunc blandit nec. Donec et sem convallis velit hendrerit porttitor. Fusce viverra velit erat, nec efficitur ligula accumsan ac. In suscipit vehicula elit, eget eleifend tellus posuere ac. In at urna sit amet libero gravida ornare. Aenean est sapien, posuere ut laoreet vel, tristique nec lectus. Nunc gravida at tellus fringilla consectetur. Quisque in blandit dolor. Etiam non maximus quam. Nullam dictum orci quis libero venenatis efficitur. Nulla facilisi.",
+            "date": 1669469873908,
+            "type": "Trash"
+        },
+        {
+            "title": "Message 4",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, erat in interdum fringilla, tellus ligula fringilla enim, ac sodales orci turpis ultricies libero. Curabitur posuere ut dui eu ultricies. Nulla euismod odio ac blandit ornare. Nam lacinia massa sit amet dolor volutpat cursus. Vivamus tincidunt sapien dolor, in egestas nunc blandit nec. Donec et sem convallis velit hendrerit porttitor. Fusce viverra velit erat, nec efficitur ligula accumsan ac. In suscipit vehicula elit, eget eleifend tellus posuere ac. In at urna sit amet libero gravida ornare. Aenean est sapien, posuere ut laoreet vel, tristique nec lectus. Nunc gravida at tellus fringilla consectetur. Quisque in blandit dolor. Etiam non maximus quam. Nullam dictum orci quis libero venenatis efficitur. Nulla facilisi.",
+            "date": 1669469873908,
+            "type": "Send"
+        }
+    ]
 }
